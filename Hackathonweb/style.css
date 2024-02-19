@@ -1,0 +1,78 @@
+.headerinside{
+    font-size: small;
+    font-weight: bold;
+}
+.headerone{
+    justify-content: space-between;
+    background-color: rgb(209, 209, 209);
+    height: 50px;
+    padding: 10px;
+}
+.header2{
+    background-color: white;
+}
+
+#ph{
+    color: grey;
+    font-weight: 500;
+}
+i{
+    border-radius: 50px;
+    background-color: white;
+    width: 20px;
+    text-align: center;
+}
+.headlist{
+    padding: 20px;
+    font-weight: 600;
+    color: black;
+}
+.headlistlast{
+    background-color: rgb(247, 60, 91);
+    
+    padding: 10px;
+    font-weight: 600;
+    color: black;
+    height: 70px;
+}
+.headlistlast a{
+    color: white;
+}
+.mid{
+    width: 450px;
+    margin: 40px;
+    margin-left: 10%;
+    
+}
+.mid h1{
+    font-size: 50px;
+}
+.mid p{
+    color: grey;
+}
+#appoint{
+    margin-top: 20px;
+    background-color: rgb(245, 90, 141);
+    padding: 15px;
+    border-radius: 10px;
+    color: white;
+}
+#numb{
+    margin-top: 20px;
+    background-color: rgb(90, 245, 142);
+    padding: 15px;
+    border: 2px solid rgb(179, 178, 178);
+    border-radius: 10px;
+    color: white;
+}
+li{
+    list-style-type: none;
+}
+.footerr{
+    padding: 30px;
+    background-color: rgb(228, 224, 224);
+    
+}
+#boldd{
+    font-weight: bold;
+}
