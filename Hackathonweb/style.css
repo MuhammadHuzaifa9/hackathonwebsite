@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(209, 209, 209);
+}
 .headerinside{
     font-size: small;
     font-weight: bold;
@@ -42,6 +45,7 @@ i{
     width: 450px;
     margin: 40px;
     margin-left: 10%;
+    
     
 }
 .mid h1{
